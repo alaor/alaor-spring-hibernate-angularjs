@@ -1,0 +1,4 @@
+com/models/Documento.class
+com/models/DocumentoDAO.class
+com/Application.class
+com/controllers/DocumentoController.class
